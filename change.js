@@ -1,1 +1,1 @@
-console.log("Change detected in config.js and src/index.js");
+console.log("2Change detected in config.js and src/index.js");
